@@ -1,7 +1,7 @@
 # CureZone-19
 
-Website- https://al1216.github.io/ydms_HackVerse2.0/
-Youtube Video link - https://youtu.be/dVZIyFsspOU
+Website- https://curezone19.netlify.app/
+Youtube Video link - https://youtu.be/LTi54zgSPVg
 
 Title of the hack - CureZone-19
 
